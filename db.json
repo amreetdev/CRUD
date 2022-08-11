@@ -1,0 +1,35 @@
+{
+  "userList": [
+    {
+      "id": "1",
+      "name": "Amreet",
+      "username": "AmreetSingh",
+      "email": "test@gmail.com",
+      "address": "123, AB,ON"
+    },
+    {
+      "id": "4",
+      "name": "Amreet",
+      "username": "AmreetSingh",
+      "email": "test@gmail.com",
+      "address": "123, AB,ON"
+    },
+    {
+      "id": "dasf",
+      "name": "asdf",
+      "username": "asdf@gmail.com",
+      "email": "test@gmail.com",
+      "address": "aDSFVG"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
